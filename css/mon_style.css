@@ -1,0 +1,43 @@
+#mon_logo {
+    border-radius: 15px;
+}
+
+#langage {
+    border-radius: 90px;
+    height: 80px;
+    width: 90px;
+}
+
+#langage_sym {
+    border-radius: 60px;
+    height: 100px;
+    width: 200px;
+}
+
+#margin {
+    margin-right: 215px;
+}
+
+#langage_ionic {
+    border-radius: 60px;
+    height: 150px;
+    width: 190px;
+}
+
+#langage_angular {
+    border-radius: 60px;
+    height: 100px;
+    width: 100px;
+}
+
+#langage_mysql {
+    border-radius: 60px;
+    height: 100px;
+    width: 100px;
+}
+
+#git {
+    border-radius: 90px;
+    height: 140px;
+    width: 340px;
+}
